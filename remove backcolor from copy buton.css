@@ -1,0 +1,9 @@
+.copy-code-button {
+    background-color: transparent !important;
+    color: transparent !important;
+}
+
+.copy-code-button:hover, .copy-code-button:focus  {
+    background-color: limegreen !important;
+    color: darkred !important;
+}
